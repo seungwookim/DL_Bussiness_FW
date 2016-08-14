@@ -51,6 +51,7 @@
     </distributionManagement>
      --> 
 	<build>
+	  <finalName>DL</finalName>
 		<sourceDirectory>src/main/java</sourceDirectory>
 		<plugins>
 			<plugin>
